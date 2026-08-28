@@ -30,3 +30,7 @@ store = DocumentStore()
 store.add_pdf("handbook.pdf")
 matches = store.search("What is the vacation policy?")
 ```
+
+## Second project: AI Career Copilot
+
+See [career_copilot/README.md](career_copilot/README.md) for the React + FastAPI resume intelligence project. It uses TF-IDF retrieval to select resume evidence before generating Claude's structured fit score, application tailoring, and recruiter message.

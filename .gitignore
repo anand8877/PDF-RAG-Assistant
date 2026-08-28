@@ -3,3 +3,5 @@
 __pycache__/
 .pytest_cache/
 *.pyc
+career_copilot/frontend/node_modules/
+career_copilot/frontend/dist/
