@@ -34,3 +34,7 @@ matches = store.search("What is the vacation policy?")
 ## Second project: AI Career Copilot
 
 See [career_copilot/README.md](career_copilot/README.md) for the React + FastAPI resume intelligence project. It uses TF-IDF retrieval to select resume evidence before generating Claude's structured fit score, application tailoring, and recruiter message.
+
+## Third project: Prompt Optimizer
+
+See [prompt_optimizer/README.md](prompt_optimizer/README.md) for the JavaScript Claude prompt engineering workbench. It rewrites raw prompts with meta-prompting and evaluates baseline versus engineered outputs side by side.

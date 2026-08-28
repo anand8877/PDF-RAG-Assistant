@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 career_copilot/frontend/node_modules/
 career_copilot/frontend/dist/
+prompt_optimizer/node_modules/
